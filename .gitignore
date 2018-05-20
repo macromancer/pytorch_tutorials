@@ -100,6 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
+*.zip
 faces/
 data/
-*.zip
+hymenoptera_data/
